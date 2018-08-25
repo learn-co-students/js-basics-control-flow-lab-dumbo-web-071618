@@ -65,7 +65,7 @@ function addFive(someNumber) {
 }
 
 //once our function is declared, we can call addFive, passing in values as arguments
-//in the example test early, scuberGreetingForFeet(199) calls the function with 199 as the argument
+//in the example test from earlier, scuberGreetingForFeet(199) calls the function with 199 as the argument
 
 addFive(10);
 //returns 15
